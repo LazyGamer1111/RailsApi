@@ -11,10 +11,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.github.LazyGamer1111.railsapi.client.RailsapiClient"
+      "io.github.LazyGamer1111.railsapi.client.RailsapiClient"
     ],
     "main": [
-      "com.github.LazyGamer1111.railsapi.Railsapi"
+      "io.github.LazyGamer1111.railsapi.Railsapi"
     ]
   },
   "mixins": [

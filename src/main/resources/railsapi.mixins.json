@@ -4,7 +4,7 @@
   "package": "com.github.LazyGamer1111.railsapi.mixins",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "AbstractMinecartEntityMixin"
+    "io.github.LazyGamer1111.railsapi.mixins.AbstractMinecartEntityMixin"
   ],
   "client": [
   ],

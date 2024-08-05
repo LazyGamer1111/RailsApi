@@ -1,6 +1,6 @@
-package com.github.LazyGamer1111.railsapi.mixins;
+package io.github.LazyGamer1111.railsapi.mixins;
 
-import com.github.LazyGamer1111.railsapi.AbstractBoosterRail;
+import io.github.LazyGamer1111.railsapi.AbstractBoosterRail;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;

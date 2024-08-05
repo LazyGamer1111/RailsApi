@@ -1,4 +1,4 @@
-package com.github.LazyGamer1111.railsapi.client;
+package io.github.LazyGamer1111.railsapi.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

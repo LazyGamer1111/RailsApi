@@ -1,4 +1,4 @@
-package com.github.LazyGamer1111.railsapi;
+package io.github.LazyGamer1111.railsapi;
 
 import net.fabricmc.api.ModInitializer;
 
