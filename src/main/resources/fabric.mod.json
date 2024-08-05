@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "railsapi",
+  "version": "${version}",
+  "name": "RailsAPI",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/railsapi/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.github.LazyGamer1111.railsapi.client.RailsapiClient"
+    ],
+    "main": [
+      "com.github.LazyGamer1111.railsapi.Railsapi"
+    ]
+  },
+  "mixins": [
+    "railsapi.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
