@@ -1,10 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.github.LazyGamer1111.railsapi.mixins",
+  "package": "io.github.LazyGamer1111.railsapi.mixins",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "io.github.LazyGamer1111.railsapi.mixins.AbstractMinecartEntityMixin"
+    "AbstractMinecartEntityMixin"
   ],
   "client": [
   ],
